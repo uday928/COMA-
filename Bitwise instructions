@@ -1,0 +1,6 @@
+1 byte instructions:
+INC,DEC,JMP
+2 bytes instructions:
+MOV,ADD,SUB,CMP,XOR,AND,OR
+3 bytes instructions:
+ADC, CONDITIONAL JUMPS
